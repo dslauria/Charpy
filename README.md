@@ -1,2 +1,2 @@
 # Charpy
-Data analysis software fro instrumented Charpy tests
+Data analysis software for instrumented Charpy tests.
